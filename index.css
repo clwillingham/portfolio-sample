@@ -1,0 +1,22 @@
+body {
+        background: #efefef;
+      }
+      header {
+        text-align: center;
+      }
+      article {
+        max-width: 600px;
+        margin: 6px auto;
+        background: white;
+        padding: 6px;
+        border-radius: 10px;
+        box-shadow: inset 0 0 3px;
+      }
+      article > img {
+        float: right;
+        max-width: 400px;
+        margin: 10px;
+      }
+      article > h2 {
+        border-bottom: solid 1px #e2e2e2;
+      }
